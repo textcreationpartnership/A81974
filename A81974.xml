@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A iudgement or a definition of the visible and invisible church of our Lord Jesus Christ. By J. D.</title>
+            <author>J. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81974</idno>
+            <idno type="STC">Wing D35</idno>
+            <idno type="STC">Thomason E181_3</idno>
+            <idno type="STC">ESTC R7309</idno>
+            <idno type="EEBO-CITATION">99873110</idno>
+            <idno type="PROQUEST">99873110</idno>
+            <idno type="VID">125564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125564)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A iudgement or a definition of the visible and invisible church of our Lord Jesus Christ. By J. D.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church --  Foundation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125564:1"/>
+            <pb facs="tcp:125564:1" rendition="simple:additions"/>
+            <p>A IVDGEMENT <hi>OR A</hi> DEFINITION OF THE VISIBLE AND INVISIBLE CHVRCH OF OVR LORD JESUS CHRIST.</p>
+            <p>By <hi>J. D.</hi>
+            </p>
+            <q>
+               <bibl>CANTICLES 1.5.</bibl>
+               <p>J am black, but comely (O yee Daughters of Jeru<g ref="char:EOLhyphen"/>ſalem.</p>
+            </q>
+            <q>
+               <bibl>CANT. 4.7.</bibl>
+               <p>Thou art faire, my Love; there is no ſpot in thee.</p>
+            </q>
+            <q>
+               <bibl>PSAL. 45.13.</bibl>
+               <p>The Kings Daughter is all glorious within; her clothing is of wrought Gold.</p>
+            </q>
+            <p>Printed in the Yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125564:2"/>
+            <pb n="1" facs="tcp:125564:2"/>
+            <head>THE CHVRCHES OVTVVARD BEING AND INVVARD GLORY LAID OPEN.</head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>Church</hi> is of none but thoſe which are called of <hi>God,</hi> (to <hi>Define it</hi>) It is a company of Beleevers, and regene<g ref="char:EOLhyphen"/>rate perſons, which <hi>God</hi> gathereth together in <hi>Chriſt,</hi> by the Word in the <hi>holy Ghoſt,</hi> and the <hi>Miniſters</hi> governing the ſame, with pureneſſe of <hi>Doctrine,</hi> with lawfull uſe of the <hi>Sacraments,</hi> and with <hi>Diſcipline;</hi> and it is called the body of <hi>Chriſt;</hi> theſe members have him for their Head, from whom by their joynts and ſynewes, they take their growing, and attaine unto life by the inſpiration of the <hi>Holy Ghoſt;</hi> for theſe members are ſo thorowly joyned, as they are called <hi>Fleſh of his fleſh, and bone of his bone,</hi> Epheſ. 5.30.</p>
+            <pb n="2" facs="tcp:125564:3"/>
+            <p>It is true, in aſſemblies there be thoſe that mingle among the <hi>Saints</hi> of <hi>God,</hi> nay, very many which be ſtrangers from <hi>Christ,</hi> and theſe in ſhew onely, not indeed, doe belong unto the <hi>Church.</hi> Wherefore of them the Apoſtle <hi>Iohn</hi> ſaith, <hi>They went out from us, but were not of us.</hi> The Apoſtle <hi>Paul</hi> in the firſt Chapter of the <hi>Corinthians,</hi> the firſt Epiſtle, after he had ſaluted the Church of God, added by <hi>ex<g ref="char:EOLhyphen"/>poſition unto them which are ſanctified by Ieſus Chriſt, called to be Saints.</hi> That wee may underſtand in very deed that the wicked appertaine not to the <hi>Church,</hi> although they be alwayes converſant therein. And this wee may confeſſe to be a true <hi>Church,</hi> which are called the <hi>Communion of Saints.</hi> There be ſome of our times, nay, queſtionleſſe ma<g ref="char:EOLhyphen"/>ny of <hi>Gods Children</hi> conclude, that the true <hi>Church</hi> is not to be knowne as they are mixed together; but we may deny it to be a firme concluſion. There be proper marks aſſigned, by which the ſame may be very well knowne, without the ſeparate Aſſem<g ref="char:EOLhyphen"/>blies, for whereby the pureneſſe of doctrine flou<g ref="char:EOLhyphen"/>riſheth, the Sacraments are purely miniſtred, and Diſcipline exerciſed, that is a Congregation where<g ref="char:EOLhyphen"/>by we may ſafely joyne our ſelves, although the honeſtie of every particular man, is not ſufficiently knowne unto thee.</p>
+            <p>Neither is it of neceſſitie required, that the <hi>godly</hi> ſhould be diſcerned of men, what manner of perſons they be while they live here. <hi>Chriſt</hi> while he lived here, was not knowne among mor<g ref="char:EOLhyphen"/>tall men: and we, as the Apoſtle doth declare un<g ref="char:EOLhyphen"/>to the <hi>Coloſsians,</hi> Chapter 3. verſ. 3.4. <hi>Wee have
+<pb n="3" facs="tcp:125564:3"/>our life hidden with God, and when Chriſt which is our life ſhall appeare, then wee alſo ſhall be made ma<g ref="char:EOLhyphen"/>nifeſt with him in glorie.</hi>
+            </p>
+            <p>We reade in the firſt Booke of <hi>Samuel.</hi> 16.7. <hi>It is God that looketh into the heart;</hi> therefore it is but an unadviſed thought, that becauſe the wicked doe frequent in place with the godly, that they ſhould be the members of <hi>Chriſt.</hi> We may as well ſay, a dead man, is a man. I doe confeſſe indeed, by <hi>Chriſt,</hi> and by the <hi>Holy Ghoſt,</hi> he may be reſto<g ref="char:EOLhyphen"/>red unto life, but in the meane time, while that is not done, wee will not grant him to be the mem<g ref="char:EOLhyphen"/>ber of <hi>Chriſt,</hi> unleſſe we ſhould judge by the forme and outward ſhew. Some may perhaps ſay, how <hi>Paul</hi> might truely call the <hi>Church</hi> of the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> and <hi>Church of God;</hi> the which was ſo infected with ſo many vices. But it may be underſtood, that all they which were there, were not utterly corrup<g ref="char:EOLhyphen"/>ted, many good men remained.</p>
+            <p>Further, they were inſtructed with pure doctrine, and they retained the Sacraments holy and pure<g ref="char:EOLhyphen"/>ly; and the godly laboured much about the con<g ref="char:EOLhyphen"/>verting of them; for we know that <hi>Paul</hi> was ad<g ref="char:EOLhyphen"/>moniſhed by them of <hi>Cloas, That he ſhould prevent the evills that were then breaking forth,</hi> 1 Corinth. 1.11. Beſides, <hi>Paul</hi> had a reſpect to the teſtimony of <hi>God,</hi> who had ſaid unto him, that <hi>in the ſame Ci<g ref="char:EOLhyphen"/>tie he had much people.</hi> Moreover, by this you may underſtand, that the <hi>Church of God,</hi> doth not ſo fall away for every blemiſh, as that it ſhould no more be called the <hi>Church of God.</hi>
+            </p>
+            <p>And becauſe now adayes, the <hi>Prelates</hi> of our
+<pb n="4" facs="tcp:125564:4"/>times, have oppoſed the rules of <hi>Chriſt,</hi> which he hath laid downe by his Word, how his members ſhould be governed. But this precious Word, the <hi>Goſpell</hi> of our <hi>Lord Ieſus Chriſt,</hi> theſe Prelates, I meane, theſe Primate Metropolitans, and the reſt of that function, thoſe that have made nothing of the blood of Chriſt, in perſecuting his members, and <hi>trampling the Lord of life under foote.</hi> The Lord furniſh his Saints, with an infinite power in their Spirits, that by the Spirit of the Lord, they may cry mightily, that he hearing them, this worke of Reformation, may be to the Saints happineſſe, and Gods great glory. And the people of God by that light which may and hath beene diſcovered by the glorious Goſpell, doe ſee how they have labou<g ref="char:EOLhyphen"/>red to ſeduce the <hi>Church,</hi> in faſhioning <hi>Chriſt</hi> accor<g ref="char:EOLhyphen"/>ding to their <hi>Idolatrous Will-worſhip.</hi> But bleſſed be the <hi>Lord Chriſt;</hi> I ſay, bleſſed be <hi>Michael and his Angels, which have overcome the Dragon and his An<g ref="char:EOLhyphen"/>gels.</hi> And doth appeare to us as a glorious <hi>Chriſt,</hi> ſhewing himſelfe, how willing he is to reforme us, if we by ſinne doe not cauſe him to turne away his face, and carry away all the hopes wee have of our Reformation. I beſeech the Lord, it may not be ſaid of us, as it was of thoſe people of the <hi>Iewes,</hi> Je<g ref="char:EOLhyphen"/>remiah 5.31. <hi>The Prophets propheſie falſely, and the Prieſts beare rule by their meanes, and my people love to have it ſo;</hi> love to have no reformation; <hi>But what will become of us in the end thereof?</hi>
+            </p>
+            <p>O that the <hi>Lord</hi> would take away that great hin<g ref="char:EOLhyphen"/>drance of our Reformation in this Land, which is ſinne, and daily diſcover unto us the truth of the
+<pb n="5" facs="tcp:125564:4"/>
+               <hi>Goſpell,</hi> which is the greateſt meanes of our ſalva<g ref="char:EOLhyphen"/>tion, that the <hi>Lord Chriſts</hi> bodily members may be<g ref="char:EOLhyphen"/>hold his glory more and more; which is not yet without ſpot or wrinkle, but in that day when the great <hi>Biſhop</hi> of our ſoules, the <hi>Lord Chriſt,</hi> our Me<g ref="char:EOLhyphen"/>diator ſhall appeare, we beholding his glorious per<g ref="char:EOLhyphen"/>ſon, ſtanding ready to reward every man according to his workes; and at that day his <hi>Church</hi> ſhall be a glorious <hi>Church, without ſpot or wrinkle,</hi> Epheſ. 5.27. Then ſhall we behold <hi>Chriſt</hi> overcoming all his enemies.</p>
+            <p>But diſſentions in this outward eſtate of the <hi>Chur<g ref="char:EOLhyphen"/>ches</hi> being here on earth were never rooted out yet, and many Chriſtians wee have now adayes wan<g ref="char:EOLhyphen"/>dring from the <hi>Church</hi> of <hi>England,</hi> as if there were never diſſention in the <hi>Church of God.</hi> Conſider, the people of <hi>Iſrael,</hi> which was the <hi>Church of God,</hi> oftentimes would have killed <hi>Moſes, Exod.</hi> 7.4. <hi>Numb.</hi> 14.10. 16. 1. divers other places I could expreſſe.</p>
+            <p>And in the New Teſtament of Chriſt, upon that <hi>Church</hi> of the <hi>Corinthians,</hi> 1.5. The which is very much commended by <hi>Paul,</hi> ſaying that they were <hi>inſtructers of Wiſdome, and in the Word.</hi> Were they quiet among themſelves? No; there were ſchiſmes among them; Some held of <hi>Paul,</hi> ſome of <hi>Apollo,</hi> ſome of <hi>Peter.</hi> But you may ſay, they diſagreed not touching matters of waight: many were of that point, that they thought ſimple fornication was no ſinne: ſo that it behoved <hi>Paul,</hi> to inſtruct them con<g ref="char:EOLhyphen"/>cerning the ſame, 1 <hi>Cor.</hi> 6.12.</p>
+            <p>Wherein then appeares the <hi>Churches</hi> glory? It
+<pb n="6" facs="tcp:125564:5"/>is more inwardly glorious; her glory is more In<g ref="char:EOLhyphen"/>ternall, than Externall. As there is a twofold ſtate of the <hi>Church,</hi> the outward I have diſcovered to you already, ſtanding in viſible Aſſemblies, in the pub<g ref="char:EOLhyphen"/>like Miniſtery of the Word and Sacraments, in ex<g ref="char:EOLhyphen"/>ternall Diſcipline, &amp; Government. So now I pitch upon the Inward, the Inviſible eſtate of the <hi>Church;</hi> this eſtate ſtands in the true knowledge of <hi>God</hi> in <hi>Chriſt;</hi> in comforts touching remiſſion of ſinnes, and life everlaſting, in the gifts of grace, and of the Spirit, and of <hi>Gods</hi> protection. And in this reſpect, ſhee is right glorious, yea, a moſt glorious <hi>Church;</hi> for what glory is it to have a painted outſide, and a moſt deformed inſide. Take a Tombe gilded out<g ref="char:EOLhyphen"/>wardly, but within <hi>full of dead mens bones,</hi> Math. 23.27. It is the inward vertue which <hi>God</hi> requires; <hi>My ſonne give me thy heart,</hi> Prov. 23.26. <hi>He deſires truth in the inward parts, and in the hidden parts thou ſhalt make me to know wiſdome,</hi> Pſal. 51.1.6. It is this Inward glory which the Lord requireth, and doth reſpect; <hi>The inward ornament of a meeke and quiet ſpirit in the ſight of God, is of great price,</hi> 1 Pet. 3.4. This inward beautie of the <hi>Church,</hi> what tongue of man can ſufficiently expreſſe it, it is but a glimpſe hereof. All that I can ſay, or expreſſe to you, we may note in theſe ſeven degrees.</p>
+            <p>Firſt, The <hi>Churches</hi> inward glory, it hath the poſ<g ref="char:EOLhyphen"/>ſeſſon of <hi>Gods</hi> word, and the acknowledgment of the true <hi>God,</hi> Deut. 4.7.8. <hi>What Nation is ſo great, that hath God ſo nigh unto them, as the Lord our God is unto us; What Nation is ſo great and glorious, that hath ſtatutes ſo righteous, as all theſe Lawes,</hi> Pſal. 147.19, 20. <hi>He hath ſhewed his Word unto Jacob, his ſtatutes,
+<pb n="7" facs="tcp:125564:5"/>and his judgements unto Iſrael; he hath not dealt ſo with any Nation.</hi>
+            </p>
+            <p>Secondly, The confidence in prayer, and his aſſured love, in hearing her prayers, <hi>Rom.</hi> 5.15. <hi>Wee have received the ſpirit of Adoption, whereby wee cry Abba, Father; Whatſoever we aske, wee receive of him,</hi> Joh. 3.22.</p>
+            <p>Thirdly, Perpetuall Preſervation in the midſt of all affliction: <hi>Mat.</hi> 16.18. <hi>The gates of hell ſhall not prevaile againſt it.</hi> Iſa. 43.2. <hi>When thou paſſeſt through the waters, I will be with thee, and when thou walkeſt through the fire, the fire ſhall not hurt thee.</hi>
+            </p>
+            <p>Fourthly, To it belongeth the Covenant of pro<g ref="char:EOLhyphen"/>miſe; <hi>Rom.</hi> 9.4. <hi>It hath a more ſure word of promiſe,</hi> 2 <hi>Pet.</hi> 1.19.</p>
+            <p>Fifthly, It is adorned with the gracious gifts of the Spirit; as, <hi>love, joy, peace, long-ſuffering, gentle<g ref="char:EOLhyphen"/>neſſe, goodneſſe, faith, meekneſſe, temperance,</hi> Gal. 5.22. <hi>The world is not worthy of them,</hi> Heb. 11.38.</p>
+            <p>Sixthly, It is ſecure and voyde of feare, <hi>We will not feare though the earth be moved, and though the moun<g ref="char:EOLhyphen"/>taines be carried into the midſt of the Sea,</hi> Pſal. 46.2. They have <hi>the peace of conſcience, which paſſeth all underſtanding,</hi> Phil. 4.7.</p>
+            <p>Seventhly, It hath inheritance of life everlaſting, and the promiſe of endleſſe glory; <hi>They are heires according to the hope of eternall glory, of a better life,</hi> 2 Cor. 4.17.</p>
+            <p>This is the <hi>Churches</hi> Inward glory; Let us ſtrive to make as great ſhew as we will of perfection in this world, if wee are not members of this glorious <hi>Church,</hi> we are loſt, and muſt abide in a gall of bit<g ref="char:EOLhyphen"/>terneſſe
+<pb n="8" facs="tcp:125564:6"/>for ever; but thoſe that are of this glorious <hi>Church,</hi> ſhall obtaine this pureneſſe. Now becauſe of the Inward glory, notwithſtanding the outward blemiſh and defects, it is eſteemed glorious; as the Prophet ſaith, <hi>Pſal.</hi> 45.13. <hi>Shee is all glorious with<g ref="char:EOLhyphen"/>in:</hi> and ſo in <hi>Canticles</hi> fourth Chapter, 1, 2, 3, 4, 5, 6, 7. <hi>Behold, thou art fayre, my Love,</hi> and ſo forward, you may reade ſweet expreſſions of uniting Love, that paſſeth betweene the <hi>Lord Chriſt,</hi> and his E<g ref="char:EOLhyphen"/>ſpouſed Bride, <hi>the Church;</hi> As in the ſeventh verſe, he concludes, <hi>Thou art fayre, my Love, and there is no ſpot in thee.</hi> No ſpot, how can that be, ſeeing the <hi>Church</hi> it ſelfe acknowledgeth its own <hi>blackneſſe, Cant.</hi> 1.8. and her own <hi>drowſineſſe,</hi> Cant. 5.2.</p>
+            <p>But ſhee is all glorious;</p>
+            <p>Firſt, in regard of <hi>Chriſts</hi> imputation, he gave himſelfe for her, that he might ſanctifie her and clenſe her with the waſhing of water by the Word, that he might preſent it to himſelfe a glorious <hi>Church,</hi> not <hi>having ſpot or wrinkle,</hi> or any ſuch de<g ref="char:EOLhyphen"/>fect, <hi>but that it ſhould be holy, and without blemiſh,</hi> Epheſ. 5.26.27.</p>
+            <p>Secondly, In reſpect of <hi>Gods</hi> acceptation, <hi>Seeing thou waſt precious in my ſight, thou haſt been honoured, and I have loved thee,</hi> Iſa. 43.4.</p>
+            <p>Thirdly, In regard of the future glorification of it, <hi>it ſhall be full of glory,</hi> Revel. 21.23.</p>
+            <p>Now we ſee this point of the <hi>Churches</hi> glory diſcovered; and we ſee the <hi>Church</hi> what it is, and ſo by conſequence, a particular <hi>Church</hi> is a glorious <hi>Church,</hi> if it hath Inward ſoundneſſe, although it be not wholly freed from outward blemiſhes. There<g ref="char:EOLhyphen"/>fore
+<pb n="9" facs="tcp:125564:6"/>this doth condemne ſome ſpirits of the times, that doe raile too much, not looking upon GODS great Worke, which doe not labour with their prayers, to cry to the <hi>Lord,</hi> to finiſh his own <hi>Work.</hi> Would they would diſcerne between the ſubſtance and the circumſtance, between doctrine and man<g ref="char:EOLhyphen"/>ners, between the outward hue, and the inward beautie, but it cannot be, becauſe of many evills, therefore no true <hi>Church.</hi> If that blackneſſe of the <hi>tyranny</hi> of theſe <hi>Prelates,</hi> as we hope they ſhall not marre the Churches foundation, nay, if they doe it, it ſhall be a glorious Church in <hi>Gods</hi> eſtimation. You ſee as before the Church of <hi>Corinth</hi> was a true Church, notwithſtanding her manifold diſorders. The Church of <hi>Epheſus</hi> was a true Church not<g ref="char:EOLhyphen"/>withſtanding her declining, <hi>Rev.</hi> 2.4. The Church of <hi>Pergamus</hi> was a true Church, notwithſtanding ſhee was ſealed even In Sathans circuit, and peſtred with the devilliſh ſect of <hi>Balaamites</hi> and <hi>Nicholai<g ref="char:EOLhyphen"/>tans,</hi> Revel. 2.13, 14, 15. So was <hi>Thyatira,</hi> not<g ref="char:EOLhyphen"/>withſtanding her <hi>Jezabeliſing,</hi> Revel. 2.20. So was <hi>Sardis,</hi> notwithſtanding her <hi>lukewarmeneſſe, pover<g ref="char:EOLhyphen"/>tie, and nakedneſſe,</hi> Revel. 3.16, 17. Hath not the brighteſt day his Cloud, the fineſt Laune his brack, the pureſt gold his droſſe. Is there or was there e<g ref="char:EOLhyphen"/>ver any <hi>Church</hi> in the world, that might not be tainted with ſome imperfection. Deny as well they may, there is no Sunne in the Firmament, becauſe it is ſometimes over-clouded, (and no ſoule within that body, which outwardly is deformed.) And let this be our comfort, although wee are farre from perfection in this life. Sanctification in any thing
+<pb n="10" facs="tcp:125564:7"/>elſe, all ſinning, <hi>Iames</hi> 3.7. <hi>Having the fleſh luſting a<g ref="char:EOLhyphen"/>gainſt the Spirit, and the Spirit againſt the fleſh,</hi> Gal. 5.17. Though here we cannot wholly be freed from ſpot and blot, yet ſo long as we delight in the Lawes of God, concerning the <hi>Inward man,</hi> Rom. 7.22. and <hi>ſtrive forward towards the marke of the price of the high calling of God in Chriſt,</hi> Phil. 3.14. Wee have a gracious Father, <hi>who will ſpare us as a man ſpa<g ref="char:EOLhyphen"/>reth his own ſonne that ſerveth him,</hi> Mala. 3.17. <hi>We have an Advocate with the Father, Jeſus Christ the juſt, who is the reconciliation for our ſinnes,</hi> 1 Joh. 2.12. In him we are preſented to God <hi>without ſpot or wrinkle,</hi> Epheſ. 5.27. and for his ſake in <hi>Gods</hi> ſight we are all glorious. Which I beſeech the LORD, that all the Saints of God, whether <hi>Paul,</hi> or <hi>A<g ref="char:EOLhyphen"/>pollo,</hi> or <hi>Cephas,</hi> or the world, or <hi>life or death, or things preſent, or things to come, all may be ours, and we Christs, as Chriſt is Gods.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
